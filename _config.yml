@@ -13,13 +13,22 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+# setup
 title: Biblioteca do Cicerone
-email: bibliotecadocicerone@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-    Seja benvindo à Biblioteca do Cicerone Luís Cavalheiro. Aqui você encontrará artigos, informações, materiais e mesas narradas por ele.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  bibliotecadocicerone
+tagline: 'A biblioteca dos abismos da loucura'
+description: 'Seja benvindo à Biblioteca do Cicerone Luís Cavalheiro. Aqui você encontrará artigos, informações, materiais e mesas narradas por ele.'
+url: https://bibliotecadocicerone.github.io
+baseurl: /
+
+author:
+    name: Luís F. C. Cavalheiro
+    github_username: bibliotecadocicerone
+    email: bibliotecadocicerone@gmail.com
+
+collections:
+    authors:
+        output: true
 
 # Build settings
 markdown: kramdown
