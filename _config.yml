@@ -21,15 +21,8 @@ description: 'Seja benvindo à Biblioteca do Cicerone Luís Cavalheiro. Aqui voc
 url: https://bibliotecadocicerone.github.io
 baseurl: /
 excerpt_separator: <!--more-->
-
-author:
-    name: Luís F. C. Cavalheiro
-    github_username: bibliotecadocicerone
-    email: bibliotecadocicerone@gmail.com
-
-collections:
-    authors:
-        output: true
+github_username: bibliotecadocicerone
+email: bibliotecadocicerone@gmail.com
 
 # Build settings
 markdown: kramdown
