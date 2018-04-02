@@ -20,6 +20,7 @@ tagline: 'A biblioteca dos abismos da loucura'
 description: 'Seja benvindo à Biblioteca do Cicerone Luís Cavalheiro. Aqui você encontrará artigos, informações, materiais e mesas narradas por ele.'
 url: https://bibliotecadocicerone.github.io
 baseurl: /
+excerpt_separator: <!--more-->
 
 author:
     name: Luís F. C. Cavalheiro
