@@ -4,3 +4,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+{% for post in site.posts %}
+    <a href="{{ post.url | absolute_url }}"
+        {{ post.title }}
+    </a>
+    {{ post.excerpt }}
+{% endfor %}
