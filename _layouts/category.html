@@ -3,7 +3,10 @@ layout: page
 ---
 
 {% for post in site.categories[page.category] %}
+    <h3>
         <a href="{{ post.url | absolute_url }}">
             {{ post.title }}
         </a>
+    </h3>
+    {{ post.excerpt }}
 {% endfor %}
