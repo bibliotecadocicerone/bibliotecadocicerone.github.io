@@ -2,7 +2,7 @@
 layout: post
 title: "Mercado de Sangue – New Orleans by Night"
 date: 2018-05-01 21:20:00 -0300
-categoriy: mesas
+category: mesas
 ---
 Caros espectadores, sejam benvindos à primeira mesa narrada e arquivada na _Biblioteca do Cicerone_. Em _Mercado de Sangue_ você acompanhará a crônica de quatro neófitos em sua tentativa de desvendar um dos segredos mais odiosos de New Orleans e de tentar sobreviver à instabilidade política local.
 
