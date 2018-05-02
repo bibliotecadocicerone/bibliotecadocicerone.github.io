@@ -1,5 +1,6 @@
 gem "jekyll"
 gem "lanyon"
+gem "rdiscount"
 group :jekyll_plugins do
       gem "jekyll-feed", "~> 0.6"
 end
