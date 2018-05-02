@@ -1,11 +1,30 @@
 ---
 layout: page
-title: Sobre
-permalink: /about/
+title: About
 ---
 
-A Biblioteca do Cicerone é um espaço virtual no qual Luís Cavalheiro, narrador de RPG nas horas vagas, disponibiliza os materiais criados por ele, bem como informações sobre mesas presentes, passadas ou futuras. Todo o material disponibilizado aqui está sob a licença [Creative Commons CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode). Basicamente, ela diz que você é livre para remixar, adaptar e criar em cima de todo o material disponibilizado aqui, desde que para fins não comerciais, que atribuam o crédito do trabalho original a mim e que licenciem os trabalhos criados sob a mesma licença que usei. Na hora de atribuir o crédito a mim, copie o texto abaixo:
+<p class="message">
+  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+</p>
 
-__Luís F. C. Cavalheiro__  
-Biblioteca do Cicerone - https://bibliotecadocicerone.github.io/  
-bibliotecadocicerone@gmail.com
+In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+
+There are currently two themes built on Poole:
+
+* [Hyde](http://hyde.getpoole.com)
+* [Lanyon](http://lanyon.getpoole.com)
+
+Learn more and contribute on [GitHub](https://github.com/poole).
+
+## Setup
+
+Some fun facts about the setup of this project include:
+
+* Built for [Jekyll](http://jekyllrb.com)
+* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
+* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
+* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+
+Thanks for reading!
