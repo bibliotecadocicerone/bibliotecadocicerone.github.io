@@ -7,7 +7,7 @@ permalink:           pretty
 name:                'Biblioteca do Cicerone'
 title:               'Biblioteca do Cicerone'
 tagline:             'A biblioteca virtual do Cicerone'
-description:         'Seja benvindo à Biblioteca do Cicerone Luís Cavalheiro. Aqui você encontrará artigos, informações, materiais e mesas narradas por ele. Todos os materiais disponíveis aqui estão licenciados sob a Creative Commons CC-BY-NC-SA 4.0. Clique em [Sobre](about.md) para maiores informações.'
+description:         'Seja benvindo à Biblioteca do Cicerone Luís Cavalheiro. Aqui você encontrará artigos, informações, materiais e mesas narradas por ele. Todos os materiais disponíveis aqui estão licenciados sob a Creative Commons CC-BY-NC-SA 4.0. Clique em Sobre para maiores informações.'
 url:                 http://bibliotecadocicerone.github.io
 baseurl:             /
 markdown:            rdiscount
