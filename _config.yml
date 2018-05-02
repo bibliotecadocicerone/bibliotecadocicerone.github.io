@@ -18,6 +18,7 @@ plugins:
 # Post setup
 show_excerpts:       true
 excerpt_separator:   <!--more-->
+paginate:            5
 
 # About/contact
 author:
