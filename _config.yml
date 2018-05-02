@@ -20,6 +20,7 @@ tagline: 'A biblioteca dos abismos da loucura'
 description: 'Seja benvindo à Biblioteca do Cicerone Luís Cavalheiro. Aqui você encontrará artigos, informações, materiais e mesas narradas por ele. Todos os materiais disponíveis aqui estão licenciados sob a Creative Commons CC-BY-NC-SA 4.0. Clique em Sobre para maiores informações.'
 url: https://bibliotecadocicerone.github.io
 baseurl: /
+show_excerpts: true
 excerpt_separator: <!--more-->
 author: Cicerone
 github_username: bibliotecadocicerone
@@ -30,7 +31,6 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-  - tag_gen
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
