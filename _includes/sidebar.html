@@ -24,6 +24,17 @@
         {% endif %}
       {% endif %}
     {% endfor %}
+    
+    Mesas de RPG
+
+    {% assign pages_list = site.pages | sort:"url" %}
+    {% for node in pages_list %}
+      {% if node.title != null %}
+        {% if node.layout == "mesas" %}
+          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">* {{ node.title }}</a>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
 
   </nav>
 
