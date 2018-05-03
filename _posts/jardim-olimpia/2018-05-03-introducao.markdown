@@ -4,7 +4,7 @@ title: "Introdução"
 date: 2018-05-03 16:15:00 -0300
 category: jardim-olimpia
 ---
-Caros espectadores, sejam benvidos a um projeto muito especial de seu velho e conhecido Cicerone. _Jardim Olímpia_ é um cenário para [The Secrets of the Cats](http://www.drivethrurpg.com/product/134533/The-Secrets-of-Cats-o-A-World-of-Adventure-for-Fate-Core), um dos mais aclamados _World of Adventure_ para [Fate Core](https://www.evilhat.com/home/fate-core/). Em _The Secrets of the Cats_ (SotC, como é costumente abreviado), os jogadores interpretam gatos domésticos em sua árdua tarefa de proteger os humanos de perigos inimagináveis e que não deveriam ser conhecidos por nós.
+Caros espectadores, sejam benvidos a um projeto muito especial de seu velho e conhecido Cicerone. _Jardim Olímpia_ é um cenário para [The Secrets of the Cats](http://www.drivethrurpg.com/product/134533/The-Secrets-of-Cats-o-A-World-of-Adventure-for-Fate-Core), um dos mais aclamados _World of Adventure_ para [Fate Core](https://www.evilhat.com/home/fate-core/). Em _The Secrets of the Cats_ (SotC, como é costumeiramente abreviado), os jogadores interpretam gatos domésticos em sua árdua tarefa de proteger os humanos de perigos inimagináveis e que não deveriam ser conhecidos por nós.
 
 <!--more-->
 
