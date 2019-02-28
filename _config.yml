@@ -12,13 +12,11 @@ paginate: 3
 
 # page information
 title: Biblioteca do Cicerone
-tagline: Bons pesadelos!
+tagline: 'Bons pesadelos!'
 description: >-
     Seja bem-vindo ao meu acervo sobre
     os abismos da loucura dos jogos de
     interpretação de papéis.
-
-    Bons pesadelos!
 baseurl: "" 
 url: "" 
 
