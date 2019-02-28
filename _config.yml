@@ -27,7 +27,7 @@ github_username:  bibliotecadocicerone
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-hyde
+theme: minima
 plugins:
   - jekyll-feed
 
