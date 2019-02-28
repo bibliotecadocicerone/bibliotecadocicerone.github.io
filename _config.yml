@@ -21,7 +21,7 @@ description: >-
     pesadelos!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-name: Luís Cavalheiro
+author: Luís Cavalheiro
 email: bibliotecadocicerone@gmail.com
 telegram: lcavalheiro
 github_username:  bibliotecadocicerone
