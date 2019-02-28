@@ -18,6 +18,7 @@ description: 'Seja bem-vindo ao meu acervo sobre os abismos da loucura dos jogos
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 author:
+    name: Luís Cavalheiro
     email: bibliotecadocicerone@gmail.com
     telegram: lcavalheiro
     github_username:  bibliotecadocicerone
