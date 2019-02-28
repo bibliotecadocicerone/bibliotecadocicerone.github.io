@@ -14,14 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Biblioteca do Cicerone
-description: 'Seja bem-vindo ao meu acervo sobre os abismos da loucura dos jogos de interpretação de papéis. Bons pesadelos, meu caro visitante...'
+description: 'Seja bem-vindo ao meu acervo sobre os abismos da loucura dos jogos de interpretação de papéis. Bons pesadelos!'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-author:
-    name: Luís Cavalheiro
-    email: bibliotecadocicerone@gmail.com
-    telegram: lcavalheiro
-    github_username:  bibliotecadocicerone
+name: Luís Cavalheiro
+email: bibliotecadocicerone@gmail.com
+telegram: lcavalheiro
+github_username:  bibliotecadocicerone
 
 # Build settings
 markdown: kramdown
