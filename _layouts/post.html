@@ -13,9 +13,9 @@ layout: default
       {%- if page.author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
       {%- endif -%}
-      {%- if post.tags.size > 0 -%}
-        Tag{%- if post.tags.size > 1 -%}s{%- endif -%}: {{ post.tags | sort | join: ", " }}
-      {% endif %}</p>
+        {%- if page.tags -%}
+            Tag(s): {{ tags }}
+        {%- endif -%}</p>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
