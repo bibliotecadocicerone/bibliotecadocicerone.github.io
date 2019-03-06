@@ -24,6 +24,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 author: 'Luís Cavalheiro'
 email: bibliotecadocicerone@gmail.com
 github_username:  bibliotecadocicerone
+excerpt_separator: <!--more-->
 
 # Build settings
 markdown: kramdown

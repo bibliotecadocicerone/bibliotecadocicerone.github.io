@@ -9,9 +9,6 @@ layout: default
 
   {{ content }}
   
-  {%- for tag in site.tags -%}
-    Tags da página: {{ site.tags.tag | sort | join: "; " }}
-  {%- endfor -%}
 
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
