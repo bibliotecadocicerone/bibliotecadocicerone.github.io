@@ -5,7 +5,7 @@ date: 2019-03-06
 tags: personagens fate fate-accelerated aether-sea
 ---
   
-![laelis-flare](https://i.pinimg.com/564x/1a/f1/21/1af121111bc7d5fdc87274b2f3b39496.jpg)
+![laelis-flare](/_images/laeris-flame-minor.jpg)  
 Laeris Flare é uma das engenheiras mais talentosas que já navegaram pelo _Aether Sea_. Ela iniciou sua carreira na Marinha da Real Hegemonia, mas um desentendimento escalonado em conflito com um oficial superior a fez desertar, e agora ela oferece suas habilidades com máquinas para quem pagar mais.  
   
 # Aspectos  
@@ -41,5 +41,5 @@ Laeris Flare é uma das engenheiras mais talentosas que já navegaram pelo _Aeth
 | :---: | :---: | :---: | :---: | :---: | :---: |  
 | | | | | | |  
   
-[^ship-aspect]: propositalmente deixado em branco para ser preenchido pelo jogador.  
-[^curiosa]: a melhor tradução possível (no meu entender) para _dabble_.  
+[^ship-aspect]: Propositalmente deixado em branco para ser preenchido pelo jogador.  
+[^curiosa]: A melhor tradução possível (no meu entender) para _dabble_.  
