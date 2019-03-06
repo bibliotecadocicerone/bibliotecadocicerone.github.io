@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Laeris Flare"
+title: 'Personagem: Laeris Flare (Aether Sea)'
 date: 2019-03-06
 tags: personagens fate fate-accelerated aether-sea
 ---
@@ -39,3 +39,7 @@ Laeris Flare é uma das engenheiras mais talentosas que já navegaram pelo _Aeth
   
 | **1** | **2** | **3** | Suave | Moderada | Severa |  
 | :---: | :---: | :---: | :---: | :---: | :---: |  
+| | | | | | |  
+  
+[^ship-aspect]: propositalmente deixado em branco para ser preenchido pelo jogador.  
+[^curiosa]: a melhor tradução possível (no meu entender) para _dabble_.  
