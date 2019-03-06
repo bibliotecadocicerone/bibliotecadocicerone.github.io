@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Personagem: Laeris Flare (Aether Sea)
+title: 'Personagem: Laeris Flare (Aether Sea)'
 date: 2019-03-06
 tags: personagens fate fate-accelerated aether-sea
 ---
