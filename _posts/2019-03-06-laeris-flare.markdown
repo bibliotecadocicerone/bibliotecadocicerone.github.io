@@ -34,8 +34,8 @@ Laeris Flare é uma das engenheiras mais talentosas que já navegaram pelo _Aeth
 # Façanhas  
   
 - **Curiosa[^curiosa] em Evocação**: Laeris consegue usar magia de Evocação como uma curiosa.  
-- **No cuspe e jeito**: Por ser uma mecânica talentosa e acostuma a trabalhar sob pressão, Laeris recebe +2 em ações de Superar quando estiver improvisando um conserto em algum equipamento eletrônico ou mecânico.  
-- **Invisível às máquinas**: Por ter um bom conhecimento de como sensores eletromecânicos funcionam, Laeris recebe +2 em ações de Superar quando contornar detecção por sensores eletromecânicos for relevante.  
+- **No cuspe e jeito**: Por ser uma mecânica talentosa e acostuma a trabalhar sob pressão, Laeris recebe +2 em ações de Superar quando estiver improvisando um conserto em algum equipamento eletrônico ou mecânico usando **Clever**.  
+- **Invisível às máquinas**: Por ter um bom conhecimento de como sensores eletromecânicos funcionam, Laeris recebe +2 em ações de Superar usando **Sneaky** quando contornar detecção por sensores eletromecânicos for relevante.  
   
 # Estresse e Consequências  
   
