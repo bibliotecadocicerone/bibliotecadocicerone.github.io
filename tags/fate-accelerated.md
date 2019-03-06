@@ -1,5 +1,5 @@
 ---
 layout: tagpage
 tag: fate-accelerated
-permalink: /tags/fate-acelerated/
+permalink: /tags/fate-accelerated/
 ---
